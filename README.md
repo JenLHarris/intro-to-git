@@ -6,4 +6,4 @@ Intro to git
 - then convert it to structurally valid XHTML 
 - (or HTML)
 
-[Docs] http://daringfireball.net/projects/markdown/
+[Docs] (http://daringfireball.net/projects/markdown)
