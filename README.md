@@ -1,3 +1,1 @@
-Jen's new git repo.
-
-More text added to README.
+Intro to git from here on... previous attempts deleted
