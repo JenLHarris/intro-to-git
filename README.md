@@ -1,1 +1,1 @@
-Intro to git from here on... previous attempts deleted
+Intro to git from on... previous attempts deleted
